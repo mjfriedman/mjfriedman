@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hi, I'm Friedman!
+
+---
+👨‍💻 Aspiring Data Scientis | Problem Solving Mind 🧠 | AI Explorer 🤖
+---
+📄 Check out my CV: [mjfriedman.github.io](https://mjfriedman.github.io)
+---
+🧰 Toolbox : I use `Python`, `R`, `SQL`, `Tensorflow`, `Seaborn`, `Pandas` and many others
+---
+📫 Reach me: `friedmancouthon@gmail.com`
+---
+
+
+
 
 <!--
 **mjfriedman/mjfriedman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
