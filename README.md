@@ -3,7 +3,7 @@
 ---
 👨‍💻 Aspiring Data Scientis | Problem Solving Mind 🧠 | AI Explorer 🤖
 ---
-📄 Check out my CV: [mjfriedman.github.io](https://mjfriedman.github.io)
+📄 Check out my CV on : [mjfriedman.github.io](https://mjfriedman.github.io)
 ---
 🧰 Toolbox : I use `Python`, `R`, `SQL`, `Tensorflow`, `Seaborn`, `Pandas` and many others
 ---
