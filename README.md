@@ -1,7 +1,7 @@
 # Hi, I'm Friedman!
 
 ---
-👨‍💻 Aspiring Data Scientis | Problem Solving Mind 🧠 | AI Explorer 🤖
+👨‍💻 Aspiring Data Scientist | Problem Solving Mind 🧠 | AI Explorer 🤖
 ---
 📄 Check out my CV on : [mjfriedman.github.io](https://mjfriedman.github.io)
 ---
